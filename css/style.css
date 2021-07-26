@@ -1195,7 +1195,7 @@ body {
   display: inline-block;
   width: 20px;
   height: 16px;
-  background: url(../../img/socialicon/tel.png) 0 0 no-repeat;
+  background: url(../img/socialicon/tel.png) 0 0 no-repeat;
 }
 .footer__tel a:hover {
   text-decoration: underline;
