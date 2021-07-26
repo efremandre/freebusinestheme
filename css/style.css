@@ -355,13 +355,13 @@ body {
   border-radius: 3px;
 }
 .forms__form_user {
-  background: #fff url(../../img/inputicon/user.png) 15px 20px no-repeat;
+  background: #fff url(../img/inputicon/user.png) 15px 20px no-repeat;
 }
 .forms__form_mail {
-  background: #fff url(../../img/inputicon/mail.png) 15px 20px no-repeat;
+  background: #fff url(../img/inputicon/mail.png) 15px 20px no-repeat;
 }
 .forms__form_tell {
-  background: #fff url(../../img/inputicon/tell.png) 15px 20px no-repeat;
+  background: #fff url(../img/inputicon/tell.png) 15px 20px no-repeat;
 }
 .forms__form input:focus {
   box-shadow: 0 0 10px #ffbb42;
@@ -395,7 +395,7 @@ body {
 .forms__image {
   max-width: 645px;
   height: 345px;
-  background: url(../../img/noutbooke.png) 0 0/100% auto no-repeat;
+  background: url(../img/noutbooke.png) 0 0/100% auto no-repeat;
   margin: 0 auto;
   position: relative;
   top: 50px;
@@ -531,8 +531,8 @@ body {
   display: flex;
 }
 .about__image {
-  background: url(../../img/about/bg-about.jpg) 0 0/cover no-repeat fixed;
-  -ms-background: url(../../img/about/bg-about.jpg) 0 0/cover no-repeat;
+  background: url(../img/about/bg-about.jpg) 0 0/cover no-repeat fixed;
+  -ms-background: url(../img/about/bg-about.jpg) 0 0/cover no-repeat;
   flex: 0 0 50%;
 }
 @media (max-width: 1200px) {
