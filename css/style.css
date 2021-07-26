@@ -1050,11 +1050,11 @@ body {
 }
 .newsletter__form_user {
   width: 300px;
-  background: #fff url(../../img/inputicon/user.png) 15px 16px no-repeat;
+  background: #fff url(/img/inputicon/user.png) 15px 16px no-repeat;
 }
 .newsletter__form_mail {
   width: 400px;
-  background: #fff url(../../img/inputicon/mail.png) 15px 18px no-repeat;
+  background: #fff url(/img/inputicon/mail.png) 15px 18px no-repeat;
 }
 @media (max-width: 1200px) {
   .newsletter__form_mail {
@@ -1085,7 +1085,7 @@ body {
   box-shadow: 0 0 10px #ffbb42;
 }
 .newsletter__map {
-  background: url("/img/newsletter/map.png") top center no-repeat;
+  background: url(/img/newsletter/map.png) top center no-repeat;
   height: 607px;
 }
 @media (max-width: 1200px) {
@@ -1195,7 +1195,7 @@ body {
   display: inline-block;
   width: 20px;
   height: 16px;
-  background: url(../img/socialicon/tel.png) 0 0 no-repeat;
+  background: url(/img/socialicon/tel.png) 0 0 no-repeat;
 }
 .footer__tel a:hover {
   text-decoration: underline;
